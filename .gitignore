@@ -1,0 +1,10 @@
+.idea
+.project
+.pydevproject
+.settings
+*.pyc
+logs/main.log
+*.pyo
+*.egg-info
+.env*
+.venv*
